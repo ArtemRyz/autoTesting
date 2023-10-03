@@ -2,8 +2,7 @@
     "name": "artem_r/lesson-practic",
     "autoload": {
         "files": [
-            "src/StringUtils.php",
-            "tests/StringUtilsTest.php"
+            "src/StringUtils.php"
         ]
     },
     "authors": [
