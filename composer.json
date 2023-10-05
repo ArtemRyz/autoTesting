@@ -13,5 +13,7 @@
     ],
     "description": "autoTesting",
     "license": "MIT",
-    "require": {}
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
 }
